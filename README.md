@@ -16,6 +16,8 @@
 
 # Collection of API
 
+**A set of API for demoblaze.com covering various HTTP methods i.e. POST, GET are used for test data.**
+
 ![CollectionOfApi](https://github.com/mahin33ferdous/Performance_Testing/assets/108746973/329e9c0d-841d-4828-904e-67f67329984e)
 
 # Load Testing
