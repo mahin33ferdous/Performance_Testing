@@ -17,15 +17,15 @@
 # Collection of API
 
 **A set of API for demoblaze.com covering various HTTP methods i.e. POST, GET are used for test data.**
- <img src="https://github.com/mahin33ferdous/Performance_Testing/assets/108746973/329e9c0d-841d-4828-904e-67f67329984e" style="display: inline-block; margin: 0 auto; width: 400px"/>
 
+![CollectionOfApi](https://github.com/mahin33ferdous/Performance_Testing/assets/108746973/79fdb3cc-afdd-4426-b3cd-e05dfb1edcb9)
 
 
 # Load Testing
 
  ### While executing 60 concurrent threads(users), total of 300 requests are made with error rate 0.00%.
 
-![t60_report](https://github.com/mahin33ferdous/Performance_Testing/assets/108746973/924e2b88-718b-4e92-9de6-6cff455f491d)
+![t60_report](https://github.com/mahin33ferdous/Performance_Testing/assets/108746973/efabe5af-d6c3-482d-b177-dac6142fa4a0)
 
 
  ### While executing 80 concurrent threads(users), total of 400 requests are made with error rate 0.00%.
